@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fitpeo Urnish Assignment</string>
+    <string name="error_no_internet">No Internet Connection</string>
+    <string name="error_no_record">No Data Found</string>
+</resources>
